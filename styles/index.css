@@ -140,7 +140,7 @@ body {
     position: absolute;
     width: 320px;
     height: 500px;
-    left: 50px;
+    left: 20px;
     top: 320px;
     background-image: url(../assets/Workjeje/work16.jpg);
     background-size: 100% 100%;
@@ -169,7 +169,7 @@ body {
     position: absolute;
     width: 320px;
     height: 300px;
-    left: 50px;
+    left: 20px;
     top: 8.95px;
     background-image: url(../assets/Workjeje/work15.jpg);
     background-size: 100% 100%;
@@ -188,7 +188,7 @@ body {
 .covered {
     position: absolute;
     left: 25%;
-    top: 1620px;
+    top: 1670px;
     /* Mobile H1 */
     font-family: Inter;
     font-style: normal;
@@ -203,7 +203,7 @@ body {
 .subcovered {
     position: absolute;
     left: 25px;
-    top: 1670px;
+    top: 1740px;
     font-family: Inter;
     width: 95%;
     font-style: normal;
@@ -219,7 +219,7 @@ body {
     width: 40%;
     height: 350px;
     left: 25px;
-    top: 1750px;
+    top: 1850px;
 }
 
 .rectangle2 {
@@ -238,5 +238,5 @@ body {
     width: 40%;
     height: 350px;
     left: 50%;
-    top: 1750px;
+    top: 1850px;
 }
