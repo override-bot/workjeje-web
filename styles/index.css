@@ -138,8 +138,8 @@ body {
 
 .image1 {
     position: absolute;
-    width: 320px;
-    height: 500px;
+    width: 350px;
+    height: 350px;
     left: 20px;
     top: 320px;
     background-image: url(../assets/Workjeje/work16.jpg);
@@ -149,7 +149,7 @@ body {
 .work2 {
     position: absolute;
     width: 370px;
-    height: 490px;
+    height: 370px;
     left: 395px;
     top: 380px;
     background-image: url(../assets/Workjeje/Work2.jpg);
@@ -159,7 +159,7 @@ body {
 .dot2 {
     position: absolute;
     width: 420px;
-    height: 500px;
+    height: 400px;
     left: 370px;
     top: 300px;
     background: rgba(25, 127, 170, 0.5);
