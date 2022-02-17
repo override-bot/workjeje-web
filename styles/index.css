@@ -16,15 +16,15 @@ body {
     padding: 0px;
     position: absolute;
     width: 100px;
-    height: 27.51px;
+    height: 70px;
     left: 25px;
     top: 15px;
 }
 
 .logo {
     position: static;
-    width: 40px;
-    height: 40px;
+    width: 70px;
+    height: 70px;
     left: 0px;
     top: 0px;
     background-image: url(../assets/wj_final.png);
@@ -41,7 +41,7 @@ body {
     font-family: Inter;
     font-style: normal;
     font-weight: 600;
-    font-size: 14px;
+    font-size: 28px;
     line-height: 11px;
     /* identical to box height */
     color: #197FAA;
@@ -83,7 +83,7 @@ body {
     width: 35%;
     height: 60px;
     left: 7%;
-    top: 570px;
+    top: 600px;
     border: 0.934844px solid #1B1B3A;
     box-sizing: border-box;
     border-radius: 4.67422px;
@@ -99,7 +99,7 @@ body {
     width: 35%;
     height: 60px;
     left: 455px;
-    top: 570px;
+    top: 600px;
     border: 0.934844px solid #1B1B3A;
     box-sizing: border-box;
     border-radius: 4.67422px;
@@ -132,7 +132,7 @@ body {
     width: 45%;
     height: 500px;
     left: 7%;
-    top: 670px;
+    top: 700px;
     background: rgba(223, 242, 216, 0.5);
 }
 
