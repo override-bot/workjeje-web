@@ -15,7 +15,7 @@ body {
     align-items: center;
     padding: 0px;
     position: absolute;
-    width: 64.43px;
+    width: 100px;
     height: 27.51px;
     left: 25px;
     top: 15px;
@@ -23,8 +23,8 @@ body {
 
 .logo {
     position: static;
-    width: 27.51px;
-    height: 27.51px;
+    width: 40px;
+    height: 40px;
     left: 0px;
     top: 0px;
     background-image: url(../assets/wj_final.png);
@@ -41,7 +41,7 @@ body {
     font-family: Inter;
     font-style: normal;
     font-weight: 600;
-    font-size: 8.6875px;
+    font-size: 14px;
     line-height: 11px;
     /* identical to box height */
     color: #197FAA;
@@ -83,7 +83,7 @@ body {
     width: 35%;
     height: 60px;
     left: 7%;
-    top: 530px;
+    top: 570px;
     border: 0.934844px solid #1B1B3A;
     box-sizing: border-box;
     border-radius: 4.67422px;
@@ -99,7 +99,7 @@ body {
     width: 35%;
     height: 60px;
     left: 455px;
-    top: 530px;
+    top: 570px;
     border: 0.934844px solid #1B1B3A;
     box-sizing: border-box;
     border-radius: 4.67422px;
@@ -132,7 +132,7 @@ body {
     width: 45%;
     height: 500px;
     left: 7%;
-    top: 630px;
+    top: 670px;
     background: rgba(223, 242, 216, 0.5);
 }
 
@@ -188,7 +188,7 @@ body {
 .covered {
     position: absolute;
     left: 25%;
-    top: 1550px;
+    top: 1590px;
     /* Mobile H1 */
     font-family: Inter;
     font-style: normal;
@@ -203,7 +203,7 @@ body {
 .subcovered {
     position: absolute;
     left: 25px;
-    top: 1590px;
+    top: 1630px;
     font-family: Inter;
     width: 95%;
     font-style: normal;
