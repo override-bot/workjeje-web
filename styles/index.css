@@ -129,59 +129,11 @@ body {
 
 .dot1 {
     position: absolute;
-    width: 45%;
-    height: 500px;
-    left: 7%;
-    top: 700px;
-    background: rgba(223, 242, 216, 0.5);
-}
-
-.image1 {
-    position: absolute;
-    width: 350px;
-    height: 350px;
-    left: 20px;
-    top: 320px;
-    background-image: url(../assets/Workjeje/work16.jpg);
-    background-size: 100% 100%;
-}
-
-.work2 {
-    position: absolute;
-    width: 370px;
-    height: 370px;
-    left: 395px;
-    top: 380px;
-    background-image: url(../assets/Workjeje/Work2.jpg);
-    background-size: 100% 100%;
-}
-
-.dot2 {
-    position: absolute;
-    width: 420px;
-    height: 400px;
-    left: 370px;
-    top: 300px;
-    background: rgba(25, 127, 170, 0.5);
-}
-
-.work15 {
-    position: absolute;
-    width: 320px;
-    height: 300px;
-    left: 20px;
-    top: 8.95px;
-    background-image: url(../assets/Workjeje/work15.jpg);
-    background-size: 100% 100%;
-}
-
-.work7 {
-    position: absolute;
-    width: 390px;
-    height: 350px;
-    left: 375px;
-    top: 8.95px;
-    background-image: url(../assets/Workjeje/work7.jpg);
+    width: 95%;
+    height: 690px;
+    left: 25px;
+    top: 800px;
+    background-image: url(../assets/Frame57.jpg);
     background-size: 100% 100%;
 }
 
