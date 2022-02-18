@@ -170,8 +170,10 @@ body {
     position: absolute;
     width: 40%;
     height: 350px;
-    left: 25px;
-    top: 1850px;
+    left: 35px;
+    top: 1900px;
+    background-image: url(../assets/Frame23.jpg);
+    background-size: 100% 100%;
 }
 
 .rectangle2 {
@@ -189,6 +191,48 @@ body {
     position: absolute;
     width: 40%;
     height: 350px;
-    left: 50%;
-    top: 1850px;
+    left: 52%;
+    top: 1900px;
+    background-image: url(../assets/Frame22.jpg);
+    background-size: 100% 100%;
+}
+
+.frame21 {
+    position: absolute;
+    width: 40%;
+    height: 350px;
+    left: 35px;
+    top: 2350px;
+    background-image: url(../assets/Frame21.jpg);
+    background-size: 100% 100%;
+}
+
+.frame33 {
+    position: absolute;
+    width: 40%;
+    height: 350px;
+    left: 52%;
+    top: 2350px;
+    background-image: url(../assets/Frame33.jpg);
+    background-size: 100% 100%;
+}
+
+.frame20 {
+    position: absolute;
+    width: 40%;
+    height: 350px;
+    left: 35px;
+    top: 2800px;
+    background-image: url(../assets/Frame20.jpg);
+    background-size: 100% 100%;
+}
+
+.frame19 {
+    position: absolute;
+    width: 40%;
+    height: 350px;
+    left: 52%;
+    top: 2800px;
+    background-image: url(../assets/Frame19.jpg);
+    background-size: 100% 100%;
 }
