@@ -236,3 +236,57 @@ body {
     background-image: url(../assets/Frame19.jpg);
     background-size: 100% 100%;
 }
+
+.earn {
+    position: absolute;
+    left: 35px;
+    top: 3250px;
+    width: 95%;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 70px;
+    line-height: 74px;
+    color: #1B1B3A;
+}
+
+.subearn {
+    position: absolute;
+    width: 95%;
+    height: 85px;
+    left: 35px;
+    top: 3400px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 40px;
+    line-height: 38px;
+    color: rgba(27, 27, 58, 0.8);
+}
+
+.button {
+    display: flex;
+    align-items: center;
+    padding: 11px 17px;
+    position: absolute;
+    width: 30%;
+    height: 60px;
+    left: 35px;
+    top: 3640px;
+    background: #197FAA;
+    border-radius: 5px;
+    border: 1px solid #197FAA;
+}
+
+.sup {
+    position: static;
+    left: 17px;
+    width: 100%;
+    top: 11px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 12px;
+    color: #FFFFFF;
+}
