@@ -255,7 +255,7 @@ body {
     width: 95%;
     height: 85px;
     left: 35px;
-    top: 3400px;
+    top: 3430px;
     font-family: Inter;
     font-style: normal;
     font-weight: normal;
@@ -272,10 +272,56 @@ body {
     width: 30%;
     height: 60px;
     left: 35px;
-    top: 3640px;
+    top: 3670px;
     background: #197FAA;
     border-radius: 5px;
     border: 1px solid #197FAA;
+}
+
+.r12 {
+    position: absolute;
+    width: 95%;
+    height: 1400px;
+    left: 25px;
+    top: 3840px;
+    background: #1B1B3A;
+}
+
+.ellipse {
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    left: 40px;
+    top: 3940px;
+    background: rgba(223, 242, 216, 0.1);
+}
+
+.subepp {
+    position: absolute;
+    width: 350px;
+    height: 68px;
+    left: 64px;
+    top: 3960px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 50px;
+    line-height: 46px;
+    color: #FFFFFF;
+}
+
+.subep {
+    position: absolute;
+    width: 93%;
+    height: 85px;
+    left: 29px;
+    top: 4200px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 40px;
+    line-height: 36px;
+    color: rgba(255, 255, 255, 0.9);
 }
 
 .sup {
@@ -289,4 +335,206 @@ body {
     font-size: 30px;
     line-height: 12px;
     color: #FFFFFF;
+}
+
+.frame11 {
+    padding: 18.9848px 29.3401px;
+    position: absolute;
+    width: 30%;
+    height: 320px;
+    left: 70px;
+    top: 4450px;
+    background: rgba(25, 127, 170, 0.5);
+    border-radius: 8.62944px;
+    background-image: url(../assets/Frame11.jpg);
+    background-size: 100% 100%;
+}
+
+.frame14 {
+    padding: 18.9848px 29.3401px;
+    position: absolute;
+    width: 30%;
+    height: 320px;
+    right: 70px;
+    top: 4450px;
+    background: rgba(25, 127, 170, 0.5);
+    border-radius: 8.62944px;
+    background-image: url(../assets/Frame14.jpg);
+    background-size: 100% 100%;
+}
+
+.frame8 {
+    padding: 18.9848px 29.3401px;
+    position: absolute;
+    width: 30%;
+    height: 320px;
+    left: 70px;
+    top: 4850px;
+    background: rgba(25, 127, 170, 0.5);
+    border-radius: 8.62944px;
+    background-image: url(../assets/Frame8.jpg);
+    background-size: 100% 100%;
+}
+
+.frame17 {
+    padding: 18.9848px 29.3401px;
+    position: absolute;
+    width: 30%;
+    height: 320px;
+    right: 70px;
+    top: 4850px;
+    background: rgba(25, 127, 170, 0.5);
+    border-radius: 8.62944px;
+    background-image: url(../assets/Frame17.jpg);
+    background-size: 100% 100%;
+}
+
+.frame24 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    position: absolute;
+    width: 95%;
+    left: 28px;
+    top: 5400px;
+}
+
+.commit {
+    position: static;
+    width: 60%;
+    left: 0px;
+    top: 0px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 70px;
+    line-height: 70px;
+    color: #1B1B3A;
+}
+
+.subcommit {
+    position: static;
+    width: 95%;
+    left: 0px;
+    top: 170px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 50px;
+    line-height: 55px;
+    color: rgba(27, 27, 58, 0.8);
+}
+
+.group7 {
+    position: absolute;
+    width: 90%;
+    height: 600px;
+    left: 30px;
+    top: 490px;
+    background-image: url(../assets/Group7.jpg);
+    background-size: 100% 100%;
+}
+
+.group5 {
+    position: absolute;
+    width: 90%;
+    height: 600px;
+    left: 30px;
+    top: 490px;
+    background-image: url(../assets/Group5.jpg);
+    background-size: 100% 100%;
+}
+
+.frame28 {
+    padding: 0px;
+    position: absolute;
+    width: 95%;
+    left: 28px;
+    top: 6650px;
+}
+
+.rectangle25 {
+    position: absolute;
+    width: 95%;
+    height: 1450px;
+    left: 25px;
+    top: 7900px;
+    border: 0.463215px solid rgba(27, 27, 58, 0.8);
+    border-radius: 4.63215px;
+}
+
+.leverage {
+    position: absolute;
+    top: 8000px;
+    left: 110px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 60px;
+    line-height: 60px;
+    /* identical to box height */
+    color: #1B1B3A;
+    text-align: center;
+}
+
+.subleverage {
+    position: absolute;
+    left: 110px;
+    width: 85%;
+    top: 8090px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 50px;
+    line-height: 50px;
+    color: rgba(27, 27, 58, 0.8);
+}
+
+.find {
+    position: absolute;
+    left: 110px;
+    width: 65%;
+    top: 8470px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 60px;
+    line-height: 60px;
+    color: #1B1B3A;
+}
+
+.subfind {
+    position: absolute;
+    width: 85%;
+    height: 66px;
+    left: 110px;
+    top: 8600px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 50px;
+    line-height: 50px;
+    color: rgba(27, 27, 58, 0.8);
+}
+
+.rectangle24 {
+    position: absolute;
+    width: 90%;
+    height: 400px;
+    left: 5%;
+    top: 8900px;
+    background-image: url(../assets/Rectangle24.jpg);
+    border-radius: 2.31608px;
+    background-size: 100% 100%;
+}
+
+.frame34 {
+    position: absolute;
+    width: 95%;
+    height: 400px;
+    left: 2.5%;
+    top: 9500px;
+    background-image: url(../assets/Frame34.jpg);
+    background-size: 100% 100%;
 }
