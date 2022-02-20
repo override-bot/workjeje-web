@@ -41,8 +41,8 @@ body {
     font-family: Inter;
     font-style: normal;
     font-weight: 600;
-    font-size: 28px;
-    line-height: 11px;
+    font-size: 40px;
+    line-height: 20px;
     /* identical to box height */
     color: #197FAA;
 }
@@ -51,12 +51,12 @@ body {
     position: absolute;
     width: 95%;
     left: 25px;
-    top: 103px;
+    top: 200px;
     font-family: Inter;
     font-style: normal;
     font-weight: 600;
-    font-size: 80px;
-    line-height: 80px;
+    font-size: 60px;
+    line-height: 60px;
     color: #1B1B3A;
 }
 
@@ -68,8 +68,8 @@ body {
     font-family: Inter;
     font-style: normal;
     font-weight: normal;
-    font-size: 40px;
-    line-height: 40px;
+    font-size: 30px;
+    line-height: 30px;
     color: #1B1B3A;
 }
 
@@ -240,13 +240,13 @@ body {
 .earn {
     position: absolute;
     left: 35px;
-    top: 3250px;
+    top: 3300px;
     width: 95%;
     font-family: Inter;
     font-style: normal;
     font-weight: 600;
-    font-size: 70px;
-    line-height: 74px;
+    font-size: 50px;
+    line-height: 50px;
     color: #1B1B3A;
 }
 
@@ -259,8 +259,8 @@ body {
     font-family: Inter;
     font-style: normal;
     font-weight: normal;
-    font-size: 40px;
-    line-height: 38px;
+    font-size: 30px;
+    line-height: 30px;
     color: rgba(27, 27, 58, 0.8);
 }
 
@@ -408,8 +408,8 @@ body {
     font-family: Inter;
     font-style: normal;
     font-weight: 600;
-    font-size: 70px;
-    line-height: 70px;
+    font-size: 50px;
+    line-height: 50px;
     color: #1B1B3A;
 }
 
@@ -421,8 +421,8 @@ body {
     font-family: Inter;
     font-style: normal;
     font-weight: normal;
-    font-size: 50px;
-    line-height: 55px;
+    font-size: 40px;
+    line-height: 40px;
     color: rgba(27, 27, 58, 0.8);
 }
 
@@ -451,7 +451,7 @@ body {
     position: absolute;
     width: 95%;
     left: 28px;
-    top: 6650px;
+    top: 6700px;
 }
 
 .rectangle25 {
@@ -459,48 +459,47 @@ body {
     width: 95%;
     height: 1450px;
     left: 25px;
-    top: 7900px;
+    top: 7950px;
     border: 0.463215px solid rgba(27, 27, 58, 0.8);
     border-radius: 4.63215px;
 }
 
 .leverage {
     position: absolute;
-    top: 8000px;
-    left: 110px;
+    top: 8050px;
+    left: 100px;
     font-family: Inter;
     font-style: normal;
     font-weight: 600;
-    font-size: 60px;
-    line-height: 60px;
+    font-size: 40px;
+    line-height: 40px;
     /* identical to box height */
     color: #1B1B3A;
-    text-align: center;
 }
 
 .subleverage {
     position: absolute;
-    left: 110px;
+    left: 100px;
     width: 85%;
-    top: 8090px;
+    top: 8140px;
     font-family: Inter;
     font-style: normal;
     font-weight: normal;
-    font-size: 50px;
-    line-height: 50px;
+    font-size: 30px;
+    line-height: 30px;
     color: rgba(27, 27, 58, 0.8);
 }
 
 .find {
     position: absolute;
-    left: 110px;
+    left: 100px;
     width: 65%;
     top: 8470px;
     font-family: Inter;
     font-style: normal;
     font-weight: 600;
-    font-size: 60px;
-    line-height: 60px;
+    font-size: 40px;
+    line-height: 40px;
     color: #1B1B3A;
 }
 
@@ -508,13 +507,13 @@ body {
     position: absolute;
     width: 85%;
     height: 66px;
-    left: 110px;
+    left: 100px;
     top: 8600px;
     font-family: Inter;
     font-style: normal;
     font-weight: normal;
-    font-size: 50px;
-    line-height: 50px;
+    font-size: 30px;
+    line-height: 30px;
     color: rgba(27, 27, 58, 0.8);
 }
 
