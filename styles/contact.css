@@ -1,0 +1,436 @@
+@media only screen and (min-device-width:768px) {
+    body {
+        display: none
+    }
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
+}
+
+.frame1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 0px;
+    position: absolute;
+    width: 100px;
+    height: 70px;
+    left: 25px;
+    top: 15px;
+}
+
+.logo {
+    position: static;
+    width: 70px;
+    height: 70px;
+    left: 0px;
+    top: 0px;
+    background-image: url(../assets/wj_final.png);
+    background-size: 100% 100%;
+    /* Inside auto layout */
+}
+
+.workjeje {
+    position: static;
+    width: 36.92px;
+    height: 10.86px;
+    left: 27.51px;
+    top: 8.33px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 20px;
+    /* identical to box height */
+    color: #197FAA;
+}
+
+.head {
+    position: absolute;
+    width: 100%;
+    height: 34px;
+    text-align: center;
+    top: 120px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 50px;
+    line-height: 54px;
+    /* identical to box height */
+    color: rgba(27, 27, 58, 0.8);
+}
+
+.glad {
+    position: absolute;
+    width: 100%;
+    height: 17px;
+    top: 200px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 34px;
+    text-align: center;
+    /* identical to box height */
+    color: rgba(27, 27, 58, 0.5);
+}
+
+.rectangle26 {
+    position: absolute;
+    width: 95%;
+    height: 70%;
+    left: 2.5%;
+    top: 300px;
+    background: #FFFFFF;
+    box-shadow: -2px -4px 10px rgba(224, 220, 220, 0.25), 2px 4px 10px rgba(224, 220, 220, 0.25);
+    border-radius: 10px;
+}
+
+.emailLab {
+    position: absolute;
+    width: 50%;
+    height: 16px;
+    left: 10%;
+    top: 380px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 30px;
+    color: rgba(27, 27, 58, 0.8);
+}
+
+#email {
+    position: absolute;
+    width: 70%;
+    height: 100px;
+    left: 10%;
+    top: 420px;
+    background-color: white;
+    border-bottom: 1px solid rgba(27, 27, 58, 0.8);
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    font-size: 30px;
+}
+
+.nameLab {
+    position: absolute;
+    width: 50%;
+    height: 16px;
+    left: 10%;
+    top: 620px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 30px;
+    color: rgba(27, 27, 58, 0.8);
+}
+
+#name {
+    position: absolute;
+    width: 70%;
+    height: 100px;
+    left: 10%;
+    top: 660px;
+    background-color: white;
+    border-bottom: 1px solid rgba(27, 27, 58, 0.8);
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    font-size: 30px;
+}
+
+.subjectLab {
+    position: absolute;
+    width: 50%;
+    height: 16px;
+    left: 10%;
+    top: 840px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 30px;
+    color: rgba(27, 27, 58, 0.8);
+}
+
+#subject {
+    position: absolute;
+    width: 70%;
+    height: 100px;
+    left: 10%;
+    top: 880px;
+    background-color: white;
+    border-bottom: 1px solid rgba(27, 27, 58, 0.8);
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    font-size: 30px;
+}
+
+.messageLab {
+    position: absolute;
+    width: 50%;
+    height: 16px;
+    left: 10%;
+    top: 1040px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    line-height: 30px;
+    color: rgba(27, 27, 58, 0.8);
+}
+
+#message {
+    position: absolute;
+    width: 70%;
+    height: 150px;
+    left: 10%;
+    top: 1080px;
+    background-color: white;
+    border-bottom: 1px solid rgba(27, 27, 58, 0.8);
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    font-size: 30px;
+}
+
+.frame3 {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 11px 17px;
+    position: absolute;
+    width: 250px;
+    height: 100px;
+    left: 10%;
+    top: 1380px;
+    background: #197FAA;
+    border-radius: 5px;
+    border: 1px solid #197FAA;
+    align-items: center;
+    justify-content: center;
+}
+
+.frame3 p {
+    position: static;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 28px;
+    color: #FFFFFF;
+    /* Inside auto layout */
+}
+
+.frame34 {
+    position: absolute;
+    width: 95%;
+    height: 400px;
+    left: 2.5%;
+    top: 2000px;
+    background-image: url(../assets/Frame34.jpg);
+    background-size: 100% 100%;
+}
+
+.frame30 {
+    position: absolute;
+    left: 45px;
+    top: 2600px;
+    background: #1B1B3A;
+    border-radius: 3.8836px;
+    background-image: url(../assets/Frame30.jpg);
+    background-size: 100% 100%;
+    height: 100px;
+    width: 40%;
+}
+
+.frame31 {
+    position: absolute;
+    right: 45px;
+    bottom: 12.68%;
+    top: 2600px;
+    background: #1B1B3A;
+    border-radius: 3.8836px;
+    background-image: url(../assets/Frame31.jpg);
+    background-size: 100% 100%;
+    height: 100px;
+    width: 40%;
+}
+
+.footer {
+    position: absolute;
+    width: 97%;
+    height: 658px;
+    left: 1.5%;
+    top: 3000px;
+}
+
+.rectangle13 {
+    position: absolute;
+    width: 100%;
+    height: 663px;
+    left: 0px;
+    top: 0px;
+    background: #1B1B3A;
+}
+
+.wkjbt {
+    position: absolute;
+    width: 63px;
+    height: 15px;
+    left: 39px;
+    top: 53px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 30px;
+    color: #FFFFFF;
+}
+
+.quick {
+    position: absolute;
+    width: 108px;
+    height: 13px;
+    left: 48px;
+    top: 110px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 22px;
+    color: #FFFFFF;
+}
+
+a {
+    text-decoration: none;
+}
+
+.about {
+    position: absolute;
+    width: 41px;
+    height: 12px;
+    left: 48px;
+    top: 137px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 20px;
+    color: #FFFFFF;
+}
+
+.features {
+    position: absolute;
+    width: 60px;
+    height: 12px;
+    left: 48px;
+    top: 163px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 20px;
+    color: #FFFFFF;
+}
+
+.faq {
+    position: absolute;
+    width: 27px;
+    height: 11px;
+    left: 48px;
+    top: 189px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 20px;
+    color: #FFFFFF;
+}
+
+.provider {
+    position: absolute;
+    height: 22px;
+    left: 48px;
+    top: 265px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 30px;
+    /* identical to box height */
+    color: #FFFFFF;
+}
+
+.contact {
+    position: absolute;
+    height: 12px;
+    left: 48px;
+    top: 293px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 20px;
+    color: #FFFFFF;
+}
+
+.privacy {
+    position: absolute;
+    height: 12px;
+    left: 48px;
+    top: 319px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 20px;
+    color: #FFFFFF;
+}
+
+.terms2 {
+    position: absolute;
+    height: 11px;
+    left: 48px;
+    top: 345px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 20px;
+    color: #FFFFFF;
+}
+
+.download {
+    position: absolute;
+    width: 101px;
+    height: 11px;
+    left: 48px;
+    top: 370px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 20px;
+    color: #FFFFFF;
+}
+
+.year {
+    position: absolute;
+    height: 12px;
+    top: 596px;
+    font-family: Inter;
+    font-style: normal;
+    width: 100%;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 20px;
+    color: #FFFFFF;
+    text-align: center;
+}
