@@ -1,0 +1,140 @@
+@media only screen and (min-device-width:768px) {
+    body {
+        display: none
+    }
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
+}
+
+.frame1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 0px;
+    position: absolute;
+    width: 100px;
+    height: 70px;
+    left: 25px;
+    top: 15px;
+}
+
+.logo {
+    position: static;
+    width: 70px;
+    height: 70px;
+    left: 0px;
+    top: 0px;
+    background-image: url(../assets/wj_final.png);
+    background-size: 100% 100%;
+    /* Inside auto layout */
+}
+
+.workjeje {
+    position: static;
+    width: 36.92px;
+    height: 10.86px;
+    left: 27.51px;
+    top: 8.33px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 20px;
+    /* identical to box height */
+    color: #197FAA;
+}
+
+.frequent {
+    position: absolute;
+    width: 100%;
+    top: 120px;
+    text-align: center;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 50px;
+    line-height: 55px;
+    /* identical to box height */
+    color: #1B1B3A;
+}
+
+.subfrequent {
+    position: absolute;
+    width: 100%;
+    text-align: center;
+    top: 190px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 45px;
+    /* identical to box height */
+    color: rgba(27, 27, 58, 0.8);
+}
+
+.accord {
+    position: absolute;
+    top: 250px;
+    width: 90%;
+    left: 5%;
+}
+
+.accordion {
+    background-color: white;
+    color: rgba(27, 27, 58, 0.8);
+    cursor: pointer;
+    padding: 18px;
+    width: 100%;
+    text-align: left;
+    border-left: none;
+    border-right: none;
+    border-top: none;
+    border-bottom: 1px solid black;
+    outline: none;
+    transition: 0.4s;
+    margin-top: 40px;
+    font-size: 35px;
+}
+
+
+/* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
+
+.active {
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    border-top: 1px solid black;
+    border-bottom: none;
+}
+
+
+/* Style the accordion panel. Note: hidden by default */
+
+.panel {
+    padding: 0 18px;
+    background-color: white;
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.2s ease-out;
+    font-size: 30px;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    border-bottom: 1px solid black;
+    border-top: none;
+}
+
+.accordion:after {
+    content: '\02795';
+    /* Unicode character for "plus" sign (+) */
+    font-size: 13px;
+    color: #777;
+    float: right;
+    margin-left: 5px;
+}
+
+.active:after {
+    content: "\2796";
+    /* Unicode character for "minus" sign (-) */
+}
