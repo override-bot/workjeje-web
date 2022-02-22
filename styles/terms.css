@@ -65,7 +65,7 @@ body {
     width: 95%;
     height: 400px;
     left: 2.5%;
-    top: 8000px;
+    top: 8800px;
     background-image: url(../assets/Frame34.jpg);
     background-size: 100% 100%;
 }
@@ -73,7 +73,7 @@ body {
 .frame30 {
     position: absolute;
     left: 45px;
-    top: 8600px;
+    top: 9500px;
     background: #1B1B3A;
     border-radius: 3.8836px;
     background-image: url(../assets/Frame30.jpg);
@@ -86,7 +86,7 @@ body {
     position: absolute;
     right: 45px;
     bottom: 12.68%;
-    top: 8600px;
+    top: 9500px;
     background: #1B1B3A;
     border-radius: 3.8836px;
     background-image: url(../assets/Frame31.jpg);
@@ -100,7 +100,7 @@ body {
     width: 97%;
     height: 658px;
     left: 1.5%;
-    top: 9000px;
+    top: 9800px;
 }
 
 .rectangle13 {
