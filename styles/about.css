@@ -64,7 +64,7 @@ body {
 .frame37 {
     position: absolute;
     width: 95%;
-    height: 65%;
+    height: 1900px;
     left: 2.5%;
     top: 350px;
     background-image: url(../assets/Frame37.jpg);
@@ -74,7 +74,7 @@ body {
 .standard {
     position: absolute;
     width: 100%;
-    top: 100%;
+    top: 2500px;
     font-family: Inter;
     font-style: normal;
     font-weight: 600;
@@ -88,7 +88,7 @@ body {
 .substandard {
     position: absolute;
     width: 100%;
-    top: 105%;
+    top: 2600px;
     /* Text */
     font-family: Inter;
     font-style: normal;
@@ -102,30 +102,30 @@ body {
 
 .group12 {
     position: absolute;
-    width: 80%;
-    height: 30%;
-    left: 10%;
-    top: 115%;
+    width: 500px;
+    height: 500px;
+    left: 250px;
+    top: 2800px;
     background-image: url(../assets/Group12.jpg);
     background-size: 100% 100%;
 }
 
 .group13 {
     position: absolute;
-    width: 80%;
-    height: 30%;
-    left: 10%;
-    top: 150%;
+    width: 500px;
+    height: 500px;
+    left: 250px;
+    top: 3400px;
     background-image: url(../assets/Group13.jpg);
     background-size: 100% 100%;
 }
 
 .group14 {
     position: absolute;
-    width: 80%;
-    height: 30%;
-    left: 10%;
-    top: 185%;
+    width: 500px;
+    height: 500px;
+    left: 250px;
+    top: 4000px;
     background-image: url(../assets/Group14.jpg);
     background-size: 100% 100%;
 }
