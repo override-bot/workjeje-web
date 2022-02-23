@@ -12,3 +12,18 @@ for (i = 0; i < acc.length; i++) {
         }
     });
 }
+
+var menu = document.getElementById("menu");
+var overlay = document.getElementById("overlay");
+menu.addEventListener("click", function() {
+    overlay.style.display = "block";
+    menu.style.display = "none";
+
+});
+
+var close = document.getElementById('overlay-close');
+close.addEventListener("click", function() {
+    overlay.style.display = "none";
+    menu.style.display = "block";
+
+});

@@ -251,3 +251,157 @@ a {
     color: #FFFFFF;
     text-align: center;
 }
+
+#menu {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    right: 25px;
+    top: 35px;
+    background-image: url(../assets/Vectorm.jpg);
+    border: none;
+    background-size: 100% 100%;
+}
+
+#overlay {
+    position: absolute;
+    width: 95%;
+    height: 1200px;
+    top: 0px;
+    left: 2.5%;
+    display: none;
+    background-color: white;
+    z-index: 1;
+}
+
+.overlay-logo {
+    position: absolute;
+    width: 70px;
+    height: 70px;
+    left: 0px;
+    top: 20px;
+    background-image: url(../assets/wj_final.png);
+    background-size: 100% 100%;
+    /* Inside auto layout */
+}
+
+#overlay-close {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    right: 25px;
+    top: 45px;
+    background-image: url(../assets/ci_menu-alt-02.jpg);
+    background-size: 100% 100%;
+    border: none;
+}
+
+.workjeje-overlay {
+    position: absolute;
+    width: 36.92px;
+    height: 10.86px;
+    left: 65px;
+    top: 45px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 20px;
+    /* identical to box height */
+    color: #197FAA;
+}
+
+.overlay-home {
+    position: absolute;
+    width: 100%;
+    top: 150px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 35px;
+    line-height: 37px;
+    color: #1B1B3A;
+    text-align: center;
+}
+
+.overlay-about {
+    position: absolute;
+    width: 100%;
+    top: 250px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 35px;
+    line-height: 37px;
+    color: #1B1B3A;
+    text-align: center;
+}
+
+.overlay-features {
+    position: absolute;
+    width: 100%;
+    top: 350px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 35px;
+    line-height: 37px;
+    color: #1B1B3A;
+    text-align: center;
+}
+
+.overlay-faq {
+    position: absolute;
+    width: 100%;
+    top: 450px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 35px;
+    line-height: 37px;
+    color: #1B1B3A;
+    text-align: center;
+}
+
+.overlay-contact {
+    position: absolute;
+    width: 100%;
+    top: 550px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 35px;
+    line-height: 37px;
+    color: #1B1B3A;
+    text-align: center;
+}
+
+.frame4-overlay {
+    position: absolute;
+    width: 40%;
+    height: 100px;
+    left: 30%;
+    top: 650px;
+    border: 0.883792px solid #1B1B3A;
+    box-sizing: border-box;
+    border-radius: 4.41896px;
+    background-image: url(../assets/Frame4.jpg);
+    background-size: 100% 100%;
+}
+
+.frame5-overlay {
+    position: absolute;
+    width: 40%;
+    height: 100px;
+    left: 30%;
+    top: 850px;
+    border: 0.883792px solid #1B1B3A;
+    box-sizing: border-box;
+    border-radius: 4.41896px;
+    background-image: url(../assets/Frame5.jpg);
+    background-size: 100% 100%;
+}
+
+#overlay a {
+    color: #1B1B3A;
+}
