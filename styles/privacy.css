@@ -97,9 +97,9 @@ body {
 
 .footer {
     position: absolute;
-    width: 97%;
+    width: 95%;
     height: 658px;
-    left: 1.5%;
+    left: 2.5%;
     top: 7000px;
 }
 
@@ -114,29 +114,26 @@ body {
 
 .wkjbt {
     position: absolute;
-    width: 63px;
-    height: 15px;
     left: 39px;
     top: 53px;
     font-family: Inter;
     font-style: normal;
     font-weight: 600;
-    font-size: 30px;
-    line-height: 30px;
+    font-size: 40px;
+    line-height: 40px;
     color: #FFFFFF;
 }
 
 .quick {
     position: absolute;
-    width: 108px;
     height: 13px;
     left: 48px;
-    top: 110px;
+    top: 140px;
     font-family: Inter;
     font-style: normal;
     font-weight: 600;
-    font-size: 20px;
-    line-height: 22px;
+    font-size: 35px;
+    line-height: 37px;
     color: #FFFFFF;
 }
 
@@ -146,123 +143,111 @@ a {
 
 .about {
     position: absolute;
-    width: 41px;
     height: 12px;
     left: 48px;
-    top: 137px;
+    top: 170px;
     font-family: Inter;
     font-style: normal;
     font-weight: normal;
-    font-size: 20px;
-    line-height: 20px;
+    font-size: 35px;
+    line-height: 37px;
     color: #FFFFFF;
 }
 
 .features {
     position: absolute;
-    width: 60px;
-    height: 12px;
     left: 48px;
-    top: 163px;
+    top: 200px;
     font-family: Inter;
     font-style: normal;
     font-weight: normal;
-    font-size: 20px;
-    line-height: 20px;
+    font-size: 35px;
+    line-height: 37px;
     color: #FFFFFF;
 }
 
 .faq {
     position: absolute;
-    width: 27px;
-    height: 11px;
     left: 48px;
-    top: 189px;
+    top: 230px;
     font-family: Inter;
     font-style: normal;
     font-weight: normal;
-    font-size: 20px;
-    line-height: 20px;
+    font-size: 35px;
+    line-height: 37px;
     color: #FFFFFF;
 }
 
 .provider {
     position: absolute;
-    height: 22px;
     left: 48px;
-    top: 265px;
+    top: 300px;
     font-family: Inter;
     font-style: normal;
     font-weight: 600;
-    font-size: 30px;
-    line-height: 30px;
+    font-size: 40px;
+    line-height: 47px;
     /* identical to box height */
     color: #FFFFFF;
 }
 
 .contact {
     position: absolute;
-    height: 12px;
     left: 48px;
-    top: 293px;
+    top: 340px;
     font-family: Inter;
     font-style: normal;
     font-weight: normal;
-    font-size: 20px;
-    line-height: 20px;
+    font-size: 35px;
+    line-height: 37px;
     color: #FFFFFF;
 }
 
 .privacy {
     position: absolute;
-    height: 12px;
     left: 48px;
-    top: 319px;
+    top: 380px;
     font-family: Inter;
     font-style: normal;
     font-weight: normal;
-    font-size: 20px;
-    line-height: 20px;
+    font-size: 35px;
+    line-height: 37px;
     color: #FFFFFF;
 }
 
 .terms2 {
     position: absolute;
-    height: 11px;
     left: 48px;
-    top: 345px;
+    top: 430px;
     font-family: Inter;
     font-style: normal;
     font-weight: normal;
-    font-size: 20px;
-    line-height: 20px;
+    font-size: 35px;
+    line-height: 37px;
     color: #FFFFFF;
 }
 
 .download {
     position: absolute;
-    width: 101px;
-    height: 11px;
     left: 48px;
-    top: 370px;
+    top: 470px;
     font-family: Inter;
     font-style: normal;
     font-weight: normal;
-    font-size: 20px;
-    line-height: 20px;
+    font-size: 35px;
+    line-height: 37px;
     color: #FFFFFF;
 }
 
 .year {
     position: absolute;
-    height: 12px;
     top: 596px;
     font-family: Inter;
     font-style: normal;
     width: 100%;
     font-weight: normal;
-    font-size: 20px;
-    line-height: 20px;
+    font-size: 30px;
+    line-height: 30px;
     color: #FFFFFF;
     text-align: center;
 }
