@@ -226,7 +226,7 @@ body {
 .rectangle20 {
     position: absolute;
     width: 90%;
-    height: 500px;
+    height: 530px;
     left: 5%;
     top: 390px;
     background-image: url(../assets/frank-web1aa.jpg);
@@ -237,9 +237,9 @@ body {
 .rectangle21 {
     position: absolute;
     width: 90%;
-    height: 500px;
+    height: 530px;
     left: 5%;
-    top: 390px;
+    top: 420px;
     background-image: url(../assets/Workjeje/work7.jpg);
     border-radius: 10px;
     background-size: 100% 100%;
