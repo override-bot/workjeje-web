@@ -74,35 +74,27 @@ body {
 }
 
 .frame5 {
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    align-items: center;
-    padding: 10.2833px 15.8924px;
-    position: absolute;
-    width: 35%;
-    height: 60px;
-    left: 7%;
+    width: 40%;
+    height: 100px;
+    left: 45px;
     top: 600px;
-    border: 0.934844px solid #1B1B3A;
+    border: 0.883792px solid #1B1B3A;
     box-sizing: border-box;
-    border-radius: 4.67422px;
+    border-radius: 4.41896px;
+    background-image: url(../assets/Frame5.jpg);
+    background-size: 100% 100%;
 }
 
 .frame4 {
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    align-items: center;
-    padding: 10.2833px 15.8924px;
-    position: absolute;
-    width: 35%;
-    height: 60px;
-    left: 455px;
+    width: 40%;
+    height: 100px;
+    right: 45px;
     top: 600px;
-    border: 0.934844px solid #1B1B3A;
+    border: 0.883792px solid #1B1B3A;
     box-sizing: border-box;
-    border-radius: 4.67422px;
+    border-radius: 4.41896px;
+    background-image: url(../assets/Frame4.jpg);
+    background-size: 100% 100%;
 }
 
 .apple {
