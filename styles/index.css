@@ -873,3 +873,26 @@ a {
 #overlay a {
     color: #1B1B3A;
 }
+
+#pagecontent {
+    display: none;
+}
+
+#loader {
+    height: 100%;
+    width: 100%;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+
+.splash {
+    height: 300px;
+    width: 300px;
+    top: 40%;
+    position: absolute;
+    background-image: url(../assets/wj_final.png);
+    background-size: 100% 100%;
+}
