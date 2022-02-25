@@ -16,6 +16,9 @@
     <script src="https://www.gstatic.com/firebasejs/8.7.0/firebase-auth.js"></script>
     <script src="https://www.gstatic.com/firebasejs/8.7.0/firebase-firestore.js"></script>
     <script src="../javascript/firebaseinit.js"></script>
+    <div id="loader">
+        <div class="splash"></div>
+    </div>
     <div id="overlay">
         <div class="overlay-logo"></div>
         <div class="workjeje-overlay">Workjeje</div>
@@ -126,6 +129,12 @@
 
     </div>
     <script src="../javascript/accordion.js"></script>
+    <script>
+        var loader = document.getElementById("loader");
+        window.addEventListener("load", function() {
+            loader.style.display = "none";
+        });
+    </script>
 </body>
 
 </html>

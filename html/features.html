@@ -12,6 +12,10 @@
 </head>
 
 <body>
+    <div id="loader">
+        <div class="splash"></div>
+    </div>
+
     <div id="overlay">
         <div class="overlay-logo"></div>
         <div class="workjeje-overlay">Workjeje</div>
@@ -97,6 +101,12 @@
 
     </div>
     <script src="../javascript/accordion.js"></script>
+    <script>
+        var loader = document.getElementById("loader");
+        window.addEventListener("load", function() {
+            loader.style.display = "none";
+        });
+    </script>
 </body>
 
 </html>
