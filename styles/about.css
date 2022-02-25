@@ -63,9 +63,9 @@ body {
 
 .frame37 {
     position: absolute;
-    width: 95%;
-    height: 1900px;
-    left: 2.5%;
+    width: 90%;
+    height: 1500px;
+    left: 5%;
     top: 350px;
     background-image: url(../assets/Frame37.jpg);
     background-size: 100% 100%;
@@ -225,9 +225,9 @@ body {
 
 .rectangle20 {
     position: absolute;
-    width: 90%;
-    height: 500px;
-    left: 5%;
+    width: 85%;
+    height: 530px;
+    left: 7.5%;
     top: 390px;
     background-image: url(../assets/frank-web1aa.jpg);
     border-radius: 10px;
@@ -236,10 +236,10 @@ body {
 
 .rectangle21 {
     position: absolute;
-    width: 90%;
-    height: 500px;
-    left: 5%;
-    top: 390px;
+    width: 85%;
+    height: 530px;
+    left: 7.5%;
+    top: 420px;
     background-image: url(../assets/Workjeje/work7.jpg);
     border-radius: 10px;
     background-size: 100% 100%;
