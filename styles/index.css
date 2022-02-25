@@ -125,7 +125,7 @@ body {
     position: absolute;
     width: 90%;
     height: 710px;
-    left: 5%;
+    left: 25px;
     top: 780px;
     background-image: url(../assets/Frame57x3.jpg);
     background-size: 100% 100%;
@@ -876,4 +876,6 @@ a {
     z-index: 100;
     background-repeat: no-repeat;
     position: fixed;
+    top: 0;
+    left: 0;
 }
