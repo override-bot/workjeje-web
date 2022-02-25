@@ -871,19 +871,9 @@ a {
 #loader {
     height: 100vh;
     width: 100%;
-    background-color: white;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    align-content: center;
+    background: #000 url(../assets/777ae627acfe768c5b9f6e944efa0a63.gif) center center;
+    background-size: 50%;
     z-index: 100;
-}
-
-.splash {
-    height: 300px;
-    width: 300px;
-    top: 40%;
-    position: absolute;
-    background-image: url(../assets/wj_final.png);
-    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    position: fixed;
 }
