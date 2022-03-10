@@ -341,6 +341,7 @@ body {
     background: rgba(25, 127, 170, 0.5);
     border-radius: 8.62944px;
     background-image: url(../assets/Frame11.jpg);
+    filter: sepia(100%) saturate(20%) brightness(70%) hue-rotate(330deg);
     background-size: 100% 100%;
 }
 
@@ -354,6 +355,7 @@ body {
     background: rgba(25, 127, 170, 0.5);
     border-radius: 8.62944px;
     background-image: url(../assets/Frame14.jpg);
+    background-blend-mode: color-burn;
     background-size: 100% 100%;
 }
 
@@ -367,6 +369,7 @@ body {
     background: rgba(25, 127, 170, 0.5);
     border-radius: 8.62944px;
     background-image: url(../assets/Frame8.jpg);
+    background-blend-mode: color-burn;
     background-size: 100% 100%;
 }
 
@@ -380,6 +383,7 @@ body {
     background: rgba(25, 127, 170, 0.5);
     border-radius: 8.62944px;
     background-image: url(../assets/Frame17.jpg);
+    background-blend-mode: color-burn;
     background-size: 100% 100%;
 }
 
