@@ -309,25 +309,26 @@ body {
     width: 93%;
     height: 85px;
     left: 35px;
-    top: 4200px;
+    top: 4175px;
     font-family: Inter;
     font-style: normal;
     font-weight: normal;
     font-size: 40px;
-    line-height: 36px;
+    line-height: 44px;
     color: rgba(255, 255, 255, 0.9);
+    text-align: justify;
 }
 
 .sup {
     position: static;
-    left: 17px;
+    left: 20px;
     width: 100%;
     top: 11px;
     font-family: Inter;
     font-style: normal;
     font-weight: 600;
     font-size: 30px;
-    line-height: 12px;
+    line-height: 33px;
     color: #FFFFFF;
 }
 
