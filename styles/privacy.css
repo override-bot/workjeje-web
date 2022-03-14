@@ -73,7 +73,7 @@ margin-top:25px;
 
 .frame30 {
     
-    margin-left: 45px;
+    margin-left: 40px;
    Flex:1 1 auto;
     background: #1B1B3A;
     border-radius: 3.8836px;
@@ -81,6 +81,7 @@ margin-top:25px;
     background-size: 100% 100%;
     height: 100px;
     width: 40%;
+margin-right:5px;
 }
 .Flex{
 display:flex;
@@ -90,7 +91,7 @@ Width:100%
 
 .frame31 {
     flex:1 1 auto;
-    margin-right: 45px;
+    margin-right: 40px;
     bottom: 12.68%;
     flex: 1 1 auto;
     background: #1B1B3A;
@@ -99,6 +100,7 @@ Width:100%
     background-size: 100% 100%;
     height: 100px;
     width: 40%;
+margin-left:5px;
 }
 
 .footer {
