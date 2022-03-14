@@ -65,7 +65,6 @@ body {
     width: 95%;
     height: 400px;
     left: 2.5%;
-    top: 6000px;
     background-image: url(../assets/Frame34.jpg);
     background-size: 100% 100%;
 }
@@ -73,7 +72,7 @@ body {
 .frame30 {
     position: absolute;
     left: 45px;
-    top: 6600px;
+   Flex:1 1 auto;
     background: #1B1B3A;
     border-radius: 3.8836px;
     background-image: url(../assets/Frame30.jpg);
@@ -81,12 +80,14 @@ body {
     height: 100px;
     width: 40%;
 }
+.Flex{
+display:flex;}
 
 .frame31 {
     position: absolute;
     right: 45px;
     bottom: 12.68%;
-    top: 6600px;
+    flex: 1 1 auto;
     background: #1B1B3A;
     border-radius: 3.8836px;
     background-image: url(../assets/Frame31.jpg);
@@ -100,7 +101,7 @@ body {
     width: 95%;
     height: 658px;
     left: 2.5%;
-    top: 7000px;
+    
 }
 
 .rectangle13 {
