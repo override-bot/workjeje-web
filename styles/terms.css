@@ -5,6 +5,7 @@
 }
 
 body {
+padding:25px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
 }
 
@@ -48,67 +49,72 @@ body {
 }
 
 .terms {
-    position: absolute;
+    
     width: 95%;
-    left: 27px;
-    top: 150px;
+    margin-left: 27px;
+    margin-top:150px;
     font-family: Inter;
     font-style: normal;
     font-weight: 500;
-    font-size: 1.3vh;
-    line-height: 1.5vh;
+    font-size: 30px;
+    line-height: 36px;
     color: #1B1B3A;
 }
 
 .frame34 {
-    position: absolute;
+    
     width: 95%;
     height: 400px;
-    left: 2.5%;
-    top: 8800px;
+    margin-left: 2.5%;
     background-image: url(../assets/Frame34.jpg);
     background-size: 100% 100%;
+margin-top:25px;
 }
 
 .frame30 {
-    position: absolute;
-    left: 45px;
-    top: 9500px;
+    
+    margin-left: 40px;
+   Flex:1 1 auto;
     background: #1B1B3A;
     border-radius: 3.8836px;
     background-image: url(../assets/Frame30.jpg);
     background-size: 100% 100%;
     height: 100px;
     width: 40%;
+margin-right:5px;
+}
+.Flex{
+display:flex;
+margin-top:70px;
+Width:100%
 }
 
 .frame31 {
-    position: absolute;
-    right: 45px;
+    flex:1 1 auto;
+    margin-right: 40px;
     bottom: 12.68%;
-    top: 9500px;
+    flex: 1 1 auto;
     background: #1B1B3A;
     border-radius: 3.8836px;
     background-image: url(../assets/Frame31.jpg);
     background-size: 100% 100%;
     height: 100px;
     width: 40%;
+margin-left:5px;
 }
 
 .footer {
-    position: absolute;
     width: 95%;
     height: 658px;
-    left: 2.5%;
-    top: 9800px;
+    Margin-left: 2.5%;
+margin-top:70px;
+    
 }
 
 .rectangle13 {
-    position: absolute;
+    position:relative;
     width: 100%;
     height: 663px;
-    left: 0px;
-    top: 0px;
     background: #1B1B3A;
 }
 
