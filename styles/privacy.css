@@ -50,7 +50,7 @@ body {
 .terms {
     
     width: 95%;
-    left: 27px;
+    margin-left: 27px;
     margin-top:150px;
     font-family: Inter;
     font-style: normal;
@@ -64,7 +64,7 @@ body {
     
     width: 95%;
     height: 400px;
-    left: 2.5%;
+    margin-left: 2.5%;
     background-image: url(../assets/Frame34.jpg);
     background-size: 100% 100%;
 margin-top:25px;
@@ -72,7 +72,7 @@ margin-top:25px;
 
 .frame30 {
     
-    left: 45px;
+    margin-left: 45px;
    Flex:1 1 auto;
     background: #1B1B3A;
     border-radius: 3.8836px;
@@ -82,11 +82,14 @@ margin-top:25px;
     width: 40%;
 }
 .Flex{
-display:flex;}
+display:flex;
+margin-top:70px;
+Width:100%
+}
 
 .frame31 {
     flex:1 1 auto;
-    right: 45px;
+    margin-right: 45px;
     bottom: 12.68%;
     flex: 1 1 auto;
     background: #1B1B3A;
@@ -101,7 +104,8 @@ display:flex;}
     position: absolute;
     width: 95%;
     height: 658px;
-    left: 2.5%;
+    Margin-left: 2.5%;
+margin-top:70px;
     
 }
 
